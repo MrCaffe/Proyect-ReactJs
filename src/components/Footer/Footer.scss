@@ -1,0 +1,14 @@
+.navFooter {
+	color: red;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 100%;
+	margin: 20px auto;
+	padding: 15px 100px;
+	background: black;
+	list-style: none;
+	.linkFooter {
+		color: white;
+	}
+}

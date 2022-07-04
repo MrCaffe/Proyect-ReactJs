@@ -1,0 +1,12 @@
+.widget {
+	color: white;
+	font-size: 40;
+	opacity: 1;
+	visibility: visible;
+	transition: all .3s ease-in-out;
+}
+
+.widget-hidden {
+	visibility: none;
+	opacity: 0;
+}
